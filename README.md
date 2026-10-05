@@ -1,6 +1,6 @@
-﻿# Hardcore Server Resource Pack
+﻿# Last Breath: Resource Pack
 
-The resource pack for our hardcore Minecraft server (Java 26.2 + Bedrock via Geyser). It adds the custom
+The resource pack for **Last Breath**, our hardcore Minecraft server (Java 26.2 + Bedrock via Geyser). It adds the custom
 sword **Soulreaver** and the boss **The Hungering Maw**.
 
 The game client downloads the pack from the latest release automatically when you join the server.
@@ -29,3 +29,4 @@ You may NOT:
 
 These files are here only so the server can show its custom content. Please do not repackage, redistribute,
 or resell them. If you are an author and want something changed or removed, open an issue.
+
